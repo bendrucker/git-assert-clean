@@ -1,0 +1,23 @@
+{
+  "name": "git-assert-clean",
+  "version": "1.0.0",
+  "description": "Assert that the git working tree is clean",
+  "main": "./src",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bendrucker/git-assert-clean.git"
+  },
+  "keywords": [
+    "git",
+    "clean"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://bendrucker.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/git-assert-clean/issues"
+  },
+  "homepage": "https://github.com/bendrucker/git-assert-clean"
+}
