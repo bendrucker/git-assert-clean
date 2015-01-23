@@ -9,6 +9,7 @@ module.exports = function (callback) {
   })
   .call('trim')
   .then(function (output) {
-    return assert(!output, 'Git working tree must be clean');
-  });
+    assert(!output, 'Git working tree must be clean');
+  })
+  .nodeify(callback);
 }
