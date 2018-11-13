@@ -1,4 +1,4 @@
-# git-assert-clean [![Build Status](https://travis-ci.org/bendrucker/git-assert-clean.svg)](https://travis-ci.org/bendrucker/git-assert-clean)
+# git-assert-clean [![Build Status](https://travis-ci.org/bendrucker/git-assert-clean.svg)](https://travis-ci.org/bendrucker/git-assert-clean) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/git-assert-clean.svg)](https://greenkeeper.io/)
 Assert that the git working tree is clean
 
 ## Installing
